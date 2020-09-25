@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dongyimaidao" />
+        <module name="dongyimaiuserweb" />
+        <module name="dongyimaisearchservice" />
+        <module name="dongyimaiportalweb" />
+        <module name="dongyimaicartinterface" />
+        <module name="dongyimaicommon" />
+        <module name="dongyimaicartweb" />
+        <module name="dongyimaismsservice" />
+        <module name="dongyimaipageweb" />
+        <module name="dongyimaiorderservice" />
+        <module name="dongyimaicontentinterface" />
+        <module name="dongyimaisellergoodsservice" />
+        <module name="dongyimaicontentservice" />
+        <module name="dongyimaisearchinterface" />
+        <module name="dongyimaipayinterface" />
+        <module name="dongyimaiorderinterface" />
+        <module name="dongyimaipayservice" />
+        <module name="dongyimaisellergoodsinterface" />
+        <module name="dongyimaicartservice" />
+        <module name="dongyimaishopweb" />
+        <module name="dongyimaisolrutil" />
+        <module name="dongyimaisearchweb" />
+        <module name="dongyimaipageservice" />
+        <module name="dongyimaipojo" />
+        <module name="dongyimaiuserservice" />
+        <module name="dongyimaiuserinterface" />
+        <module name="dongyimaipageinterface" />
+        <module name="dongyimaimanagerweb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

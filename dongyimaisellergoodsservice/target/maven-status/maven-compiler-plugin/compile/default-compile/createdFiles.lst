@@ -1,0 +1,9 @@
+com\offcn\sellergoods\service\impl\BrandServiceImpl.class
+com\offcn\sellergoods\service\impl\SpecificationServiceImpl.class
+com\offcn\sellergoods\service\impl\SellerServiceImpl.class
+com\offcn\sellergoods\service\impl\GoodsDescServiceImpl.class
+com\offcn\sellergoods\service\impl\SpecificationOptionServiceImpl.class
+com\offcn\sellergoods\service\impl\TypeTemplateServiceImpl.class
+com\offcn\sellergoods\service\impl\GoodsServiceImpl.class
+com\offcn\sellergoods\service\impl\ItemCatServiceImpl.class
+com\offcn\sellergoods\service\impl\ItemServiceImpl.class

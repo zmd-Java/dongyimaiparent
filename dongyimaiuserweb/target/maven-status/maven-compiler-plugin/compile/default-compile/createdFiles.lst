@@ -1,0 +1,4 @@
+com\offcn\user\controller\AddressController.class
+com\offcn\user\controller\LoginController.class
+com\offcn\user\controller\UserController.class
+com\offcn\user\service\UserDetailServiceImpl.class
